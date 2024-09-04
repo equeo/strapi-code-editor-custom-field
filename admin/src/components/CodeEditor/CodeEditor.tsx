@@ -15,6 +15,7 @@ const languages = [
   'css',
   'dockerfile',
   'graphql',
+  'handlebars',
   'html',
   'javascript',
   'json',
