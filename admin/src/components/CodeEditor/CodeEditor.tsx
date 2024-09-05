@@ -32,8 +32,7 @@ const languages = [
   'sql',
   'typescript',
   'xml',
-  'yaml',
-  'handlebars'
+  'yaml'
 ]
 
 const FullScreenDiv = styled.div`
