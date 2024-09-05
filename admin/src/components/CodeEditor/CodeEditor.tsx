@@ -33,6 +33,7 @@ const languages = [
   'typescript',
   'xml',
   'yaml',
+  'handlebars'
 ]
 
 const FullScreenDiv = styled.div`
