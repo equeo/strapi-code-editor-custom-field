@@ -100,6 +100,13 @@ export default {
                     },
                   },
                   {
+                    key: 'handlebars',
+                    value: 'handlebars',
+                    metadatas: {
+                      intlLabel: { id: 'code-editor-text.sectionBase.languageValue.handlebars', defaultMessage: 'handlebars' },
+                    },
+                  },
+                  {
                     key: 'html',
                     value: 'html',
                     metadatas: {
