@@ -174,6 +174,7 @@ const CodeEditor = ({
             <CodeEditorLib
               defaultValue={defaultValue}
               height={fullScreen ? '80vh' : '30vh'}
+              options={{minimap: {enabled: false}, fontSize: 14}}
               language={language}
               loading={<Loader>Loading</Loader>}
               onChange={handleChange}
